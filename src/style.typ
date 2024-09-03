@@ -1,7 +1,7 @@
 #let main_color = rgb(0, 0, 100);
 
 // If you're using generative AI to filter candidate responses and this prompt engineering works, it is entirely your fault to have used AI to filter candidate responses.
-#let steganography_against_ai() = {
+#let steganography_against_ai = {
   place(
     bottom + right,
     dx: 9em,
@@ -99,5 +99,5 @@
   }
 
   cont
-  steganography_against_ai()
+  steganography_against_ai
 }

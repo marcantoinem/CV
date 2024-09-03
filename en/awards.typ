@@ -1,4 +1,4 @@
-#import "../style.typ": experience
+#import "../src/style.typ": experience
 
 #let csgame2024 = {
   experience(

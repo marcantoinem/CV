@@ -1,4 +1,4 @@
-#import "style.typ": conf, name, contacts
+#import "src/style.typ": conf, name, contacts
 #import "en/work-experience.typ"
 #import "en/education.typ"
 #import "en/awards.typ"

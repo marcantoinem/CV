@@ -5,7 +5,7 @@
     "Nuvu Cameras",
     "Montréal, Canada",
     "Mai 2024 - Août 2024",
-    "Stagiaire développement électronique embarqué",
+    "Stagiaire en développement électronique embarqué",
     [
       - Développement de bancs d'essai avec VUnit pour plus de *30 000 lignes* de code VHDL afin d'assurer le bon fonctionnement du FPGA de la nouvelle génération de caméras.
       - Mise en place d'une pipeline CI/CD complète sur Jenkins pour automatiser les tests du FPGA et garantir la qualité du code.
@@ -23,7 +23,7 @@
     "Chargé de laboratoire",
     [
       - Donner les laboratoires des cours programmation orientée objet (*INF1010*) et conception et réalisation de systèmes numériques (*INF3500*)
-      - Fournir un soutien technique et des conseils aux étudiants pour favoriser une compréhension du matériel du cours.
+      - Fournir un soutien technique et des conseils aux étudiants pour favoriser la compréhension du matériel du cours.
       - Évaluer les devoirs, offrir des commentaires détaillés.
     ],
   )
@@ -38,7 +38,7 @@
     [
       - Donner une répétition dans les cours suivants : *INF1005D*, *INF1015*, *INF1900*, *INF2610*
       - Répondre aux questions des étudiants durant les laboratoires
-      - Résoudre des problèmes logiciels et matériels divers
+      - Résoudre divers problèmes logiciels et matériels
     ],
   )
 }

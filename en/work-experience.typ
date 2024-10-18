@@ -10,7 +10,7 @@
       - Developed testbenches for over *30 000 lines* of VHDL code to ensure the correct behavior of the new camera generation's FPGA with VUnit.
       - Deployed a full CI/CD pipeline on Jenkins to automate the testing of the FPGA firmware and ensure code quality.
       - Covered *95%* of the codebase with the testbenches to ensure the reliability of the code and discovered many bugs before they could reach the hardware.
-      - Developed a RAM AXI4 Master controller in VHDL to interface the Microchip's FPGA with DDR3 and DDR4 RAM and reached debit over *128 Gb/s* to write a circular buffer of images taken by the camera.
+      - Developed a RAM AXI4 Master controller in VHDL to interface the Microchip's FPGA with DDR3 and DDR4 RAM and reached debit over *48 Gb/s* to write a circular buffer of images taken by the camera.
     ],
   )
 }

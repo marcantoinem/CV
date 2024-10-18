@@ -46,7 +46,9 @@
       align(left, text(weight: "bold", title)), align(right, date),
     ),
   )
-  content
+  if content != "" {
+    content
+  }
 }
 
 #let project(title, content) = {

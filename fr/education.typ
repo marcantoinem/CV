@@ -1,11 +1,11 @@
 #import "../src/style.typ": experience
 
-#let polytechnique = {
+#let bacc_poly = {
   experience(
     "Polytechnique Montréal",
-    [GPA: 3,71/4.00 $diamond.stroked.small$ 64/120 crédits],
-    "Août 2022 - Présent",
-    "Génie informatique",
+    [GPA: 3,73/4.00],
+    "Août 2022 - Mai 2026",
+    "Baccalauréat en génie informatique",
     "",
   )
 }

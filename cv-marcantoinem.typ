@@ -1,4 +1,4 @@
-#import "src/style.typ": conf, name, contacts
+#import "src/style.typ": conf, contacts, name
 #import "en/work-experience.typ"
 #import "en/education.typ"
 #import "en/awards.typ"
@@ -15,12 +15,13 @@
       link("tel:438-507-7844", "438-507-7844"),
     ))
     = Work Experience
-    #work-experience.nuvu
     #work-experience.charge
+    #work-experience.tracel
+    #work-experience.nuvu
     #work-experience.lainco
 
     = Education
-    #education.polytechnique
+    #education.bacc_poly
 
     = Projects
     #project.generateur
@@ -30,7 +31,7 @@
 
     = Skills, languages, and interests
     - *Programming languages:* Rust, Python, C/C++, JavaScript/Typescript, VHDL, Verilog
-    - *Technology*: Docker, STM32, FPGA, FreeRTOS, Node.js, Cargo, CMake, Makefile, RTIC, Embassy-rs, Linux, VUnit, OpenGL, WebGPU, WebAssembly, TailwindCSS
+    - *Technology*: Docker, Node.js, Cargo, Makefile, Linux, OpenGL, WebGPU, WebAssembly, TailwindCSS, FPGA
     - *Languages*: English, French
   ],
 )

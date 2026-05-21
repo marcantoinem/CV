@@ -32,7 +32,7 @@
 }
 
 #let experience(company, location, date, title, content) = {
-  set block(spacing: 0.7em)
+  set block(spacing: 0.6em)
   text(
     weight: "bold",
     grid(
@@ -40,12 +40,16 @@
       align(left, text(fill: main_color, company)), align(right, location),
     ),
   )
-  text(
-    grid(
-      columns: (1fr, 1fr),
-      align(left, text(weight: "bold", title)), align(right, date),
-    ),
-  )
+
+  if title != "" or date != "" {
+    text(
+      grid(
+        columns: (1fr, 1fr),
+        align(left, text(weight: "bold", title)), align(right, date),
+      ),
+    )
+  }
+
   if content != "" {
     content
   }

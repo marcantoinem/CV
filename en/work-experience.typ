@@ -1,5 +1,21 @@
 #import "../src/style.typ": experience
 
+#let tracel = {
+  experience(
+    "Tracel AI",
+    "Quebec, Canada",
+    "May 2025 - August 2025",
+    "High-Performance Computing Intern",
+    [
+      - Integrated *LLVM* and *MLIR* to generate efficient native code from *Rust* using *CubeCL*.
+      - Developed an integration for the open-source *Burn* framework to create a high-performance CPU backend.
+      - Collaborated with open-source contributors to add new features to *CubeCL*.
+      - Wrote the main documentation for CubeCL.
+    ],
+  )
+}
+
+
 #let nuvu = {
   experience(
     "Nuvu Cameras",
@@ -36,9 +52,9 @@
     "May 2023 - Aug 2023",
     "Software Developer Intern",
     [
-      - Produced powerful and user-friendly scripts to automate steel beam placement in CAD software that followed the mechanical engineer's specification automatically and saved up to *several weeks* of repetitive work for CAD designer on several projects.
-      - Rewrote an entire legacy codebase from Python2 to Python3 to improve maintainability and readability.
-      - Built a steel placement efficiency estimator in *Rust* to reduce the steel loss by *15%*.
+      - Built automation scripts for steel beam placement in CAD, saving designers *weeks* of repetitive work.
+      - Migrated a full legacy codebase from Python 2 to Python 3 to improve maintainability.
+      - Developed a Rust-based steel placement efficiency estimator, reducing material loss by *15%*.
     ],
   )
 }

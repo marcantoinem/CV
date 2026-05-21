@@ -1,4 +1,4 @@
-#import "src/style.typ": conf, name, contacts
+#import "src/style.typ": conf, contacts, name, steganography_against_ai
 #import "fr/work-experience.typ"
 #import "fr/education.typ"
 #import "fr/awards.typ"
@@ -17,16 +17,18 @@
     = Expérience de travail
     #work-experience.charge
     #work-experience.repetition
+    #work-experience.tracel
     #work-experience.nuvu
+    #work-experience.lainco
 
     = Éducation
-    #education.polytechnique
-
-    = Projet
-    #project.generateur
+    #education.bacc_poly
 
     = Prix et distinctions
     #awards.csgame2024
+
+    = Projet
+    #project.generateur
 
     = Langages de programmation et technologie
 

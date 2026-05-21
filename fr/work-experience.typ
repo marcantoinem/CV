@@ -1,5 +1,21 @@
 #import "../src/style.typ": experience
 
+#let tracel = {
+  experience(
+    "Tracel AI",
+    "Québec, Canada",
+    "Mai 2025 - Août 2025, Mai 2026 - Août 2026",
+    "Développeur en calcul haute-performance",
+    [
+      - Intégration de *LLVM* et *MLIR* pour générer du code natif performant à partir de *Rust* avec *CubeCL*.
+      - Développement d'une intégration au framework open-source *Burn* pour créer une backend haute-performance sur CPU.
+      - Collaboration avec des contributeurs open-source pour intégrer des nouvelles fonctionnalités dans *CubeCL*
+      - Écriture de la documentation principale de CubeCL
+    ],
+  )
+}
+
+
 #let nuvu = {
   experience(
     "Nuvu Cameras",
@@ -38,7 +54,6 @@
     [
       - Donner une répétition dans les cours suivants : *INF1005D*, *INF1015*, *INF1900*, *INF2610*
       - Répondre aux questions des étudiants durant les laboratoires
-      - Résoudre divers problèmes logiciels et matériels
     ],
   )
 }
@@ -51,8 +66,7 @@
     "Développeur logiciel stagiaire",
     [
       - Production de scripts puissants et conviviaux pour automatiser le placement des poutres en acier dans un logiciel CAD, suivant automatiquement les spécifications de l'ingénieur mécanique et permettant d'économiser jusqu'à *plusieurs semaines* de travail répétitif pour le concepteur CAD sur plusieurs projets.
-      - Réécriture intégrale d'une base de code héritée de Python2 à Python3 pour améliorer la maintenabilité et la lisibilité.
-      - Construction d'un estimateur d'efficacité de placement d'acier en *Rust* pour réduire la perte d'acier de *15%*.
+      - Construction d'un estimateur d'efficacité de placement d'acier en *Rust* pour améliorer les approximations de pertes d'acier de *15%*.
     ],
   )
 }

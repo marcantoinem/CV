@@ -1,5 +1,6 @@
 #import "src/style.typ": conf, contacts, name, steganography_against_ai
 #import "fr/work-experience.typ"
+#import "fr/implications.typ"
 #import "fr/education.typ"
 #import "fr/awards.typ"
 #import "fr/project.typ"
@@ -23,12 +24,17 @@
 
     = Éducation
     #education.bacc_poly
+    #education.maitrise_poly
 
     = Prix et distinctions
     #awards.csgame2024
 
     = Projet
     #project.generateur
+
+    = Implications
+    #implications.polyorbite_dg
+    #implications.csgames_co
 
     = Langages de programmation et technologie
 

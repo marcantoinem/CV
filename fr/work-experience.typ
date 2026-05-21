@@ -8,9 +8,9 @@
     "Développeur en calcul haute-performance",
     [
       - Intégration de *LLVM* et *MLIR* pour générer du code natif performant à partir de *Rust* avec *CubeCL*.
-      - Développement d'une intégration au framework open-source *Burn* pour créer une backend haute-performance sur CPU.
-      - Collaboration avec des contributeurs open-source pour intégrer des nouvelles fonctionnalités dans *CubeCL*
-      - Écriture de la documentation principale de CubeCL
+      - Développement d'une intégration au framework open-source *Burn* pour créer un backend haute-performance sur CPU.
+      - Collaboration avec des contributeurs open-source pour intégrer de nouvelles fonctionnalités dans *CubeCL*.
+      - Écriture de la documentation principale de *CubeCL*.
     ],
   )
 }
@@ -38,7 +38,7 @@
     "Août 2024 - Présent",
     "Chargé de laboratoire",
     [
-      - Donner les laboratoires des cours programmation orientée objet (*INF1010*) et conception et réalisation de systèmes numériques (*INF3500*)
+      - Donner les laboratoires des cours de programmation orientée objet (*INF1010*), de projet initial de projet embarqué (*INF1900*) et de conception et réalisation de systèmes numériques (*INF3500*).
       - Fournir un soutien technique et des conseils aux étudiants pour favoriser la compréhension du matériel du cours.
       - Évaluer les devoirs, offrir des commentaires détaillés.
     ],
@@ -52,8 +52,8 @@
     "Août 2023 - Présent",
     "Répétiteur",
     [
-      - Donner une répétition dans les cours suivants : *INF1005D*, *INF1015*, *INF1900*, *INF2610*
-      - Répondre aux questions des étudiants durant les laboratoires
+      - Donner une répétition pour les cours suivants : *INF1005D*, *INF1015*, *INF1900*, *INF2610*.
+      - Répondre aux questions des étudiants durant les laboratoires.
     ],
   )
 }

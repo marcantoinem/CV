@@ -20,7 +20,7 @@
     #work-experience.repetition
     #work-experience.tracel
     #work-experience.nuvu
-    #work-experience.lainco
+    // #work-experience.lainco
 
     = Éducation
     #education.bacc_poly
@@ -29,12 +29,12 @@
     = Prix et distinctions
     #awards.csgame2024
 
-    = Projet
-    #project.generateur
+    // = Projet
+    // #project.generateur
 
-    = Implications
-    #implications.polyorbite_dg
-    #implications.csgames_co
+    // = Implications
+    // #implications.polyorbite_dg
+    // #implications.csgames_co
 
     = Langages de programmation et technologie
 
